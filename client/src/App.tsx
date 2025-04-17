@@ -222,7 +222,7 @@ const App = () => {
                 </h1>
               </div>
             ) : (
-              <h1 className=" madimi-one-regular text-3xl">PYDE</h1>
+              <h1 className=" madimi-one-regular text-3xl">Z-Breed</h1>
             )}
             <w3m-button />
           </div>
@@ -312,7 +312,7 @@ const App = () => {
                 </div>
               ) : (
                 <div className="flex items-center justify-center h-full">
-                  PYDE Chat
+                  Z-Breed 
                 </div>
               )}
             </div>
